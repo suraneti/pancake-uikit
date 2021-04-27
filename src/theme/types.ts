@@ -57,7 +57,7 @@ export type Colors = {
 
   // Brand colors
   binance: string;
-  
+
   // Custom
   themeSwitcher: string;
   themeSwitcherDisable: string;
