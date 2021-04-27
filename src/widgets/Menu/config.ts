@@ -134,6 +134,16 @@ export const socials = [
     icon: "InstagramIcon",
     href: "https://www.instagram.com/royalcatslotto",
   },
+  {
+    label: "Medium",
+    icon: "MediumIcon",
+    href: "https://medium.com/@royalcatslotto",
+  },
+  {
+    label: "Facebook",
+    icon: "FacebookIcon",
+    href: "https://www.facebook.com/groups/royalcatslotto",
+  },
 ];
 
 export const MENU_HEIGHT = 64;
