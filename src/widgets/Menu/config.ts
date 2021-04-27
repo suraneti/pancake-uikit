@@ -114,16 +114,16 @@ export const links = [
 ];
 
 export const socials = [
-  // {
-  //   label: "Telegram",
-  //   icon: "TelegramIcon",
-  //   items: [
-  //     {
-  //       label: "English",
-  //       href: "https://t.me/pancakeswap",
-  //     },
-  //   ],
-  // },
+  {
+    label: "Telegram",
+    icon: "TelegramIcon",
+    items: [
+      {
+        label: "English",
+        href: "",
+      },
+    ],
+  },
   {
     label: "Twitter",
     icon: "TwitterIcon",
