@@ -127,13 +127,23 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/royalcatslotto",
+    items: [
+      {
+        label: "English",
+        href: "https://twitter.com/royalcatslotto",
+      },
+    ],
   },
   {
     label: "Instagram",
     icon: "InstagramIcon",
-    href: "https://www.instagram.com/royalcatslotto"
-  }
+    items: [
+      {
+        label: "English",
+        href: "https://www.instagram.com/royalcatslotto",
+      },
+    ],
+  },
 ];
 
 export const MENU_HEIGHT = 64;
