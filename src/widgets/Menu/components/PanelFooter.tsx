@@ -48,7 +48,7 @@ const PanelFooter: React.FC<Props> = ({
     return (
       <Container>
         <IconButton variant="text" onClick={() => pushNav(true)}>
-          <CogIcon />
+          <CogIcon color="themeSwitcher" />
         </IconButton>
       </Container>
     );
