@@ -127,22 +127,12 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    items: [
-      {
-        label: "English",
-        href: "https://twitter.com/royalcatslotto",
-      },
-    ],
+    href: "https://twitter.com/royalcatslotto",
   },
   {
     label: "Instagram",
     icon: "InstagramIcon",
-    items: [
-      {
-        label: "English",
-        href: "https://www.instagram.com/royalcatslotto",
-      },
-    ],
+    href: "https://www.instagram.com/royalcatslotto",
   },
 ];
 
