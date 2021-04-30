@@ -124,8 +124,8 @@ export const socials = [
       },
       {
         label: "Telegram Group",
-        href: "https://t.me/royalcatslottogroup"
-      }
+        href: "https://t.me/royalcatslottogroup",
+      },
     ],
   },
   {
