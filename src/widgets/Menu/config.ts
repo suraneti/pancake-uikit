@@ -114,16 +114,20 @@ export const links = [
 ];
 
 export const socials = [
-  // {
-  //   label: "Telegram",
-  //   icon: "TelegramIcon",
-  //   items: [
-  //     {
-  //       label: "English",
-  //       href: "",
-  //     },
-  //   ],
-  // },
+  {
+    label: "Telegram",
+    icon: "TelegramIcon",
+    items: [
+      {
+        label: "Telegram Channel",
+        href: "https://t.me/royalcatslotto",
+      },
+      {
+        label: "Telegram Group",
+        href: "https://t.me/royalcatslottogroup"
+      }
+    ],
+  },
   {
     label: "Twitter",
     icon: "TwitterIcon",
