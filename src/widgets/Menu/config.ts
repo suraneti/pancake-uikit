@@ -119,11 +119,11 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "Telegram Channel",
+        label: "Channel",
         href: "https://t.me/royalcatslotto",
       },
       {
-        label: "Telegram Group",
+        label: "Group",
         href: "https://t.me/royalcatslottogroup",
       },
     ],
@@ -148,9 +148,14 @@ export const socials = [
     icon: "FacebookIcon",
     href: "https://www.facebook.com/groups/royalcatslotto",
   },
+  {
+    label: "Gitbook",
+    icon: "GitbookIcon",
+    href: "https://docs.royalcatslotto.com",
+  },
 ];
 
 export const MENU_HEIGHT = 64;
 export const MENU_ENTRY_HEIGHT = 48;
-export const SIDEBAR_WIDTH_FULL = 250;
+export const SIDEBAR_WIDTH_FULL = 290;
 export const SIDEBAR_WIDTH_REDUCED = 56;
