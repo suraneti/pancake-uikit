@@ -60,8 +60,8 @@ const PanelFooter: React.FC<Props> = ({
         {/* <CakePrice cakePriceUsd={cakePriceUsd} /> */}
         <SocialLinks />
       </SocialEntry>
-      <SettingsEntry>
-        <ThemeSwitcher isDark={isDark} toggleTheme={toggleTheme} />
+      <SettingsEntry style={{ justifyContent: "flex-end" }}>
+        {/* <ThemeSwitcher isDark={isDark} toggleTheme={toggleTheme} /> */}
         <LangSelector currentLang={currentLang} langs={langs} setLang={setLang} />
       </SettingsEntry>
     </Container>
