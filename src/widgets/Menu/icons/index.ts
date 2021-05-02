@@ -20,3 +20,4 @@ export { default as InstagramIcon } from "./Instagram";
 export { default as MediumIcon } from "./Medium";
 export { default as FacebookIcon } from "./Facebook";
 export { default as GitbookIcon } from "./Gitbook";
+export { default as ReferralIcon } from "./Referral";
