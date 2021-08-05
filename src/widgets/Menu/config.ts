@@ -133,29 +133,29 @@ export const socials = [
     icon: "TwitterIcon",
     href: "https://twitter.com/royalcatslotto",
   },
-  {
-    label: "Instagram",
-    icon: "InstagramIcon",
-    href: "https://www.instagram.com/royalcatslotto",
-  },
+  // {
+  //   label: "Instagram",
+  //   icon: "InstagramIcon",
+  //   href: "https://www.instagram.com/royalcatslotto",
+  // },
   {
     label: "Medium",
     icon: "MediumIcon",
-    href: "https://medium.com/@royalcatslotto",
+    href: "https://royalcatsfinance.medium.com/",
   },
-  {
-    label: "Facebook",
-    icon: "FacebookIcon",
-    href: "https://www.facebook.com/groups/royalcatslotto",
-  },
+  // {
+  //   label: "Facebook",
+  //   icon: "FacebookIcon",
+  //   href: "https://www.facebook.com/groups/royalcatslotto",
+  // },
   {
     label: "Gitbook",
     icon: "GitbookIcon",
-    href: "https://docs.royalcatslotto.com",
+    href: "https://docs.royalcats.finance",
   },
 ];
 
 export const MENU_HEIGHT = 64;
 export const MENU_ENTRY_HEIGHT = 48;
-export const SIDEBAR_WIDTH_FULL = 300;
+export const SIDEBAR_WIDTH_FULL = 220;
 export const SIDEBAR_WIDTH_REDUCED = 56;
