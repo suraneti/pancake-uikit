@@ -120,18 +120,18 @@ export const socials = [
     items: [
       {
         label: "Channel",
-        href: "https://t.me/royalcatslotto",
+        href: "https://t.me/royalcatschannel",
       },
       {
         label: "Group",
-        href: "https://t.me/royalcatslottogroup",
+        href: "https://t.me/royalcatsgroup",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/royalcatslotto",
+    href: "https://twitter.com/RoyalCatsDefi",
   },
   // {
   //   label: "Instagram",
